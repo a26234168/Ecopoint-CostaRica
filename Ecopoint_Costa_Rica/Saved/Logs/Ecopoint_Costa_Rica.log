@@ -1490,3 +1490,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.03-20.21.10:012][  0]LogContentStreaming: Texture pool size now 800 MB
 [2022.12.03-20.21.10:086][  0]LogSlate: Took 0.000563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.12.03-20.21.13:362][ 77]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2022.12.03-21.21.07:858][426]LogDerivedDataCache: C:/Users/10276/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.209 and deleted 0 files with total size 0 MiB. Scanned 686 files in 684 folders with total size 18 MiB.
+[2022.12.03-21.49.29:590][530]LogHttp: Warning: 00000A0566415F00: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE0698CD0-4EC2-5996-D3BB-4E95A1BB3B37%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=9237737240a0972c38d9dfa6ace5aba3%7Cf13fab1286534659b92875665dfa19f8%7Cd299d2b5-870c-4874-9557-81186f0160c9&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 30.42s
+[2022.12.03-21.49.29:591][530]LogHttp: Warning: 00000A0566415F00 Response Header Server: awselb/2.0
+[2022.12.03-21.49.29:592][530]LogHttp: Warning: 00000A0566415F00 Response Header Date: Sat, 03 Dec 2022 21:49:29 GMT
+[2022.12.03-21.49.29:592][530]LogHttp: Warning: 00000A0566415F00 Response Header Content-Type: text/html
+[2022.12.03-21.49.29:592][530]LogHttp: Warning: 00000A0566415F00 Response Header Content-Length: 122
+[2022.12.03-21.49.29:592][530]LogHttp: Warning: 00000A0566415F00 Response Header Connection: keep-alive

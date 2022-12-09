@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"H:/UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"H:/UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"H:/UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"H:/UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/Gym_Matrix.umap",
+				"H:/UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/CubeGridToolOutput_2DB959E4.uasset"
 			]
 		}
 	]

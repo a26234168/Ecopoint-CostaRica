@@ -2041,3 +2041,1029 @@ GroupActor_2
 [2022.12.24-22.00.23:821][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.03 sec)
 [2022.12.24-22.00.23:825][588]AssetCheck: New page: Asset Save: Gym_Matrix
 [2022.12.24-22.00.23:826][588]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Gym_Matrix.Gym_Matrix
+[2022.12.24-22.07.03:032][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/10276/Box_C44D196B.Box_C44D196B
+[2022.12.24-22.07.03:032][686]LogStaticMesh: Display: Building static mesh Box_C44D196B...
+[2022.12.24-22.07.03:033][686]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/10276/Box_C44D196B.Box_C44D196B as actor: StaticMeshActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.StaticMeshActor_26
+[2022.12.24-22.07.03:034][686]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_C44D196B.Box_C44D196B
+[2022.12.24-22.07.20:256][186]LogStaticMesh: Display: Building static mesh Box_C44D196B...
+[2022.12.24-22.07.20:258][186]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_C44D196B.Box_C44D196B
+[2022.12.24-22.09.29:369][391]LogStaticMesh: Display: Building static mesh Box_C44D196B...
+[2022.12.24-22.09.29:371][391]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_C44D196B.Box_C44D196B
+[2022.12.24-22.10.23:807][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.24-22.10.23:821][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/Gym_Matrix_Auto2
+[2022.12.24-22.10.23:821][496]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Gym_Matrix_Auto288C1B14F4AA3FCF808CCBA8B26D6075D.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/Gym_Matrix_Auto2.umap'
+[2022.12.24-22.10.23:826][496]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Gym_Matrix' took 0.027
+[2022.12.24-22.10.23:826][496]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2022.12.24-22.10.23:826][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_47DE65E5] ([1] browsable assets)...
+[2022.12.24-22.10.23:865][496]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_47DE65E5.Box_47DE65E5]
+[2022.12.24-22.10.23:865][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_47DE65E5]
+[2022.12.24-22.10.23:867][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_47DE65E5_Auto2
+[2022.12.24-22.10.23:867][496]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_47DE65E5_Auto2ADCEA6E14530CE90DDF62789FF171CBC.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_47DE65E5_Auto2.uasset'
+[2022.12.24-22.10.23:868][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_1DB49F92] ([1] browsable assets)...
+[2022.12.24-22.10.23:875][496]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_1DB49F92.Box_1DB49F92]
+[2022.12.24-22.10.23:875][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_1DB49F92]
+[2022.12.24-22.10.23:877][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_1DB49F92_Auto2
+[2022.12.24-22.10.23:877][496]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_1DB49F92_Auto27CC821DF427C4E583A684A9A087E0056.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_1DB49F92_Auto2.uasset'
+[2022.12.24-22.10.23:878][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_DB3EEB86] ([1] browsable assets)...
+[2022.12.24-22.10.23:885][496]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_DB3EEB86.Box_DB3EEB86]
+[2022.12.24-22.10.23:885][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_DB3EEB86]
+[2022.12.24-22.10.23:887][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_DB3EEB86_Auto2
+[2022.12.24-22.10.23:887][496]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_DB3EEB86_Auto2BD15C38C41B6A835A29205A8A59CDEAB.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_DB3EEB86_Auto2.uasset'
+[2022.12.24-22.10.23:888][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_C44D196B] ([1] browsable assets)...
+[2022.12.24-22.10.23:896][496]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_C44D196B.Box_C44D196B]
+[2022.12.24-22.10.23:896][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_C44D196B]
+[2022.12.24-22.10.23:898][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_C44D196B_Auto2
+[2022.12.24-22.10.23:898][496]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_C44D196B_Auto299A5E14A4ABDB6CBF11832B64D6BBB54.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_C44D196B_Auto2.uasset'
+[2022.12.24-22.10.23:898][496]LogFileHelpers: Auto-saving content packages took 0.072
+[2022.12.24-22.13.38:586][623]LogStaticMesh: Display: Building static mesh Box_A91499A6...
+[2022.12.24-22.13.38:586][623]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/10276/Box_A91499A6.Box_A91499A6
+[2022.12.24-22.13.38:587][623]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/10276/Box_A91499A6.Box_A91499A6 as actor: StaticMeshActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.StaticMeshActor_27
+[2022.12.24-22.13.38:587][623]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_A91499A6.Box_A91499A6
+[2022.12.24-22.13.58:572][224]LogStaticMesh: Display: Building static mesh Box_A91499A6...
+[2022.12.24-22.13.58:574][224]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_A91499A6.Box_A91499A6
+[2022.12.24-22.18.56:993][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/10276/Box_2FA1E84B.Box_2FA1E84B
+[2022.12.24-22.18.56:993][ 39]LogStaticMesh: Display: Building static mesh Box_2FA1E84B...
+[2022.12.24-22.18.56:994][ 39]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/10276/Box_2FA1E84B.Box_2FA1E84B as actor: StaticMeshActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.StaticMeshActor_28
+[2022.12.24-22.18.56:995][ 39]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_2FA1E84B.Box_2FA1E84B
+[2022.12.24-22.19.21:290][976]LogStaticMesh: Display: Building static mesh Box_2FA1E84B...
+[2022.12.24-22.19.21:291][976]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_2FA1E84B.Box_2FA1E84B
+[2022.12.24-22.20.24:699][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.24-22.20.24:713][518]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/Gym_Matrix_Auto3
+[2022.12.24-22.20.24:714][518]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Gym_Matrix_Auto3D486FD9341B03F41CF867DA94ED21D6E.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/Gym_Matrix_Auto3.umap'
+[2022.12.24-22.20.24:719][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Gym_Matrix' took 0.029
+[2022.12.24-22.20.24:719][518]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2022.12.24-22.20.24:719][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_A91499A6] ([1] browsable assets)...
+[2022.12.24-22.20.24:749][518]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_A91499A6.Box_A91499A6]
+[2022.12.24-22.20.24:749][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_A91499A6]
+[2022.12.24-22.20.24:751][518]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_A91499A6_Auto3
+[2022.12.24-22.20.24:751][518]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_A91499A6_Auto31349C43A4790881650CC4183272640C7.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_A91499A6_Auto3.uasset'
+[2022.12.24-22.20.24:752][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_2FA1E84B] ([1] browsable assets)...
+[2022.12.24-22.20.24:762][518]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_2FA1E84B.Box_2FA1E84B]
+[2022.12.24-22.20.24:762][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_2FA1E84B]
+[2022.12.24-22.20.24:764][518]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_2FA1E84B_Auto3
+[2022.12.24-22.20.24:764][518]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_2FA1E84B_Auto30FE2857A48CAEBF47CB555A111E227B3.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_2FA1E84B_Auto3.uasset'
+[2022.12.24-22.20.24:765][518]LogFileHelpers: Auto-saving content packages took 0.046
+[2022.12.24-22.21.29:985][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/10276/Box_E76EDE5C.Box_E76EDE5C
+[2022.12.24-22.21.29:985][214]LogStaticMesh: Display: Building static mesh Box_E76EDE5C...
+[2022.12.24-22.21.29:986][214]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/10276/Box_E76EDE5C.Box_E76EDE5C as actor: StaticMeshActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.StaticMeshActor_29
+[2022.12.24-22.21.29:987][214]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_E76EDE5C.Box_E76EDE5C
+[2022.12.24-22.21.57:018][392]LogStaticMesh: Display: Building static mesh Box_E76EDE5C...
+[2022.12.24-22.21.57:020][392]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_E76EDE5C.Box_E76EDE5C
+[2022.12.24-22.22.37:691][881]LogStaticMesh: Display: Building static mesh Box_35EE4A2E...
+[2022.12.24-22.22.37:691][881]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/10276/Box_35EE4A2E.Box_35EE4A2E
+[2022.12.24-22.22.37:692][881]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/10276/Box_35EE4A2E.Box_35EE4A2E as actor: StaticMeshActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.StaticMeshActor_30
+[2022.12.24-22.22.37:692][881]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_35EE4A2E.Box_35EE4A2E
+[2022.12.24-22.22.57:190][372]LogStaticMesh: Display: Building static mesh Box_35EE4A2E...
+[2022.12.24-22.22.57:191][372]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_35EE4A2E.Box_35EE4A2E
+[2022.12.24-22.23.05:724][ 63]LogStaticMesh: Display: Building static mesh Box_5A0EF4A9...
+[2022.12.24-22.23.05:724][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/10276/Box_5A0EF4A9.Box_5A0EF4A9
+[2022.12.24-22.23.05:725][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/10276/Box_5A0EF4A9.Box_5A0EF4A9 as actor: StaticMeshActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.StaticMeshActor_31
+[2022.12.24-22.23.05:726][ 63]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_5A0EF4A9.Box_5A0EF4A9
+[2022.12.24-22.23.34:030][280]LogStaticMesh: Display: Building static mesh Box_5A0EF4A9...
+[2022.12.24-22.23.34:031][280]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_5A0EF4A9.Box_5A0EF4A9
+[2022.12.24-22.23.46:504][358]LogStaticMesh: Display: Building static mesh Box_D56D1DCD...
+[2022.12.24-22.23.46:504][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/10276/Box_D56D1DCD.Box_D56D1DCD
+[2022.12.24-22.23.46:505][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/10276/Box_D56D1DCD.Box_D56D1DCD as actor: StaticMeshActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.StaticMeshActor_32
+[2022.12.24-22.23.46:505][358]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_D56D1DCD.Box_D56D1DCD
+[2022.12.24-22.24.05:169][739]LogStaticMesh: Display: Building static mesh Box_D56D1DCD...
+[2022.12.24-22.24.05:170][739]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_D56D1DCD.Box_D56D1DCD
+[2022.12.24-22.30.25:531][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.24-22.30.25:546][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/Gym_Matrix_Auto4
+[2022.12.24-22.30.25:546][695]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Gym_Matrix_Auto48A140B204F4EEFBFA6951283E27B8BCE.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/Gym_Matrix_Auto4.umap'
+[2022.12.24-22.30.25:552][695]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Gym_Matrix' took 0.031
+[2022.12.24-22.30.25:552][695]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2022.12.24-22.30.25:552][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_E76EDE5C] ([1] browsable assets)...
+[2022.12.24-22.30.25:578][695]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_E76EDE5C.Box_E76EDE5C]
+[2022.12.24-22.30.25:578][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_E76EDE5C]
+[2022.12.24-22.30.25:580][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_E76EDE5C_Auto4
+[2022.12.24-22.30.25:580][695]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_E76EDE5C_Auto418D4E09A47ED118E99E1E496077C0C15.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_E76EDE5C_Auto4.uasset'
+[2022.12.24-22.30.25:581][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_35EE4A2E] ([1] browsable assets)...
+[2022.12.24-22.30.25:588][695]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_35EE4A2E.Box_35EE4A2E]
+[2022.12.24-22.30.25:588][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_35EE4A2E]
+[2022.12.24-22.30.25:590][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_35EE4A2E_Auto4
+[2022.12.24-22.30.25:590][695]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_35EE4A2E_Auto4B9CC2F02459986F69062029F9824DE97.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_35EE4A2E_Auto4.uasset'
+[2022.12.24-22.30.25:591][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_5A0EF4A9] ([1] browsable assets)...
+[2022.12.24-22.30.25:598][695]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_5A0EF4A9.Box_5A0EF4A9]
+[2022.12.24-22.30.25:598][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_5A0EF4A9]
+[2022.12.24-22.30.25:600][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_5A0EF4A9_Auto4
+[2022.12.24-22.30.25:600][695]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_5A0EF4A9_Auto4C6B73F9D4743CF09B31807AED60659A9.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_5A0EF4A9_Auto4.uasset'
+[2022.12.24-22.30.25:600][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/10276/Box_D56D1DCD] ([1] browsable assets)...
+[2022.12.24-22.30.25:608][695]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/10276/Box_D56D1DCD.Box_D56D1DCD]
+[2022.12.24-22.30.25:608][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/10276/Box_D56D1DCD]
+[2022.12.24-22.30.25:610][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/10276/Box_D56D1DCD_Auto4
+[2022.12.24-22.30.25:611][695]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_D56D1DCD_Auto4650207AE428E75C2CC7F74936F88F9C7.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Autosaves/Game/Level/_GENERATED/10276/Box_D56D1DCD_Auto4.uasset'
+[2022.12.24-22.30.25:611][695]LogFileHelpers: Auto-saving content packages took 0.059
+[2022.12.24-22.31.10:443][177]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.24-22.31.10:449][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.24-22.31.10:449][177]PIE: New page: PIE session: Gym_Matrix (2022年12月24日 下午12:31:10)
+[2022.12.24-22.31.10:449][177]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Gym_Matrix
+[2022.12.24-22.31.10:456][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007062s)
+[2022.12.24-22.31.10:456][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Gym_Matrix.Gym_Matrix to /Game/Level/UEDPIE_0_Gym_Matrix.Gym_Matrix (0.007095s)
+[2022.12.24-22.31.10:456][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-22.31.10:457][177]LogAIModule: Creating AISystem for world Gym_Matrix
+[2022.12.24-22.31.10:458][177]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2022.12.24-22.31.10:463][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.12.24-22.31.10:465][177]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.24-22.31.10:465][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.24-22.31.10:465][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.24-22.31.10:465][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.24-22.31.10:465][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.24-22.31.10:465][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.24-22.31.10:465][177]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.24-22.31.10:465][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.24-22.31.10:465][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.24-22.31.10:465][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.24-22.31.10:465][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.24-22.31.10:465][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.24-22.31.10:494][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.24-22.31.10:520][177]LogAudioMixer: Display: Using Audio Hardware Device 4 - VG270U P (2- AMD High Definition Audio Device)
+[2022.12.24-22.31.10:521][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.24-22.31.10:521][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.24-22.31.10:521][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.24-22.31.10:522][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.12.24-22.31.10:522][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.12.24-22.31.10:523][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.12.24-22.31.10:523][177]LogInit: FAudioDevice initialized.
+[2022.12.24-22.31.10:523][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.12.24-22.31.10:523][177]LogAudio: Display: Audio Device (ID: 6) registered with world 'Gym_Matrix'.
+[2022.12.24-22.31.10:530][177]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.24-22.31.10:531][177]LogWorld: Bringing World /Game/Level/UEDPIE_0_Gym_Matrix.Gym_Matrix up for play (max tick rate 0) at 2022.12.24-17.31.10
+[2022.12.24-22.31.10:531][177]LogWorld: Bringing up level for play took: 0.001756
+[2022.12.24-22.31.10:533][177]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.12.24-22.31.10:536][177]PIE: Server logged in
+[2022.12.24-22.31.10:537][177]PIE: Play in editor total start time 0.089 seconds.
+[2022.12.24-22.32.03:961][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.24-22.32.03:961][193]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Gym_Matrix
+[2022.12.24-22.32.03:961][193]LogWorld: UWorld::CleanupWorld for Gym_Matrix, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.32.03:962][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-22.32.03:965][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.24-22.32.03:967][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-22.32.03:973][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.24-22.32.03:973][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.24-22.32.03:975][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.24-22.32.03:979][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.24-22.32.03:981][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.12.24-22.32.04:048][194]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.24-22.32.52:617][ 81]LogDerivedDataCache: C:/Users/10276/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.071 and deleted 0 files with total size 0 MiB. Scanned 1094 files in 1090 folders with total size 23 MiB.
+[2022.12.24-22.33.29:291][441]Cmd: DELETE
+[2022.12.24-22.33.29:291][441]Cmd: ACTOR DELETE
+[2022.12.24-22.33.29:294][441]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.33.29:300][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.12.24-22.33.29:302][441]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.12.24-22.33.30:211][513]Cmd: DELETE
+[2022.12.24-22.33.30:211][513]Cmd: ACTOR DELETE
+[2022.12.24-22.33.30:213][513]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.33.30:221][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.12.24-22.33.30:223][513]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.12.24-22.33.31:506][621]Cmd: DELETE
+[2022.12.24-22.33.31:506][621]Cmd: ACTOR DELETE
+[2022.12.24-22.33.31:507][621]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.12.24-22.33.31:515][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.12.24-22.33.31:517][621]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.12.24-22.33.32:558][704]Cmd: DELETE
+[2022.12.24-22.33.32:558][704]Cmd: ACTOR DELETE
+[2022.12.24-22.33.32:560][704]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.12.24-22.33.32:568][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.12.24-22.33.32:570][704]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.12.24-22.33.34:415][856]Cmd: DELETE
+[2022.12.24-22.33.34:415][856]Cmd: ACTOR DELETE
+[2022.12.24-22.33.34:417][856]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.12.24-22.33.34:424][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.24-22.33.34:425][856]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.12.24-22.33.36:344][ 11]Cmd: DELETE
+[2022.12.24-22.33.36:344][ 11]Cmd: ACTOR DELETE
+[2022.12.24-22.33.36:346][ 11]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.12.24-22.33.36:352][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.24-22.33.36:354][ 11]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: ================================================
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Total job queries 227, among them cache hits 40 (17.62%)
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Tracking 187 distinct input hashes that result in 134 distinct outputs (71.66%)
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: RAM used: 1.40 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Shaders Compiled: 32
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100.00%)
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Average time worker was idle: 208.64 s
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.18 s
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Job execution time: average 0.85 s, max 1.26 s
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 1.33
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.26 s
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Average processing rate: 4.41 jobs/sec
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Total thread time: 15.16 s
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Total thread preprocess time: 0.99 s
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Percentage time preprocessing: 6.51%
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Effective parallelization: 2.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.68 sec, max 0.78 sec, min 0.55 sec)
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.61 sec, max 0.68 sec, min 0.54 sec)
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.61 sec, max 0.69 sec, min 0.50 sec)
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.55 sec, max 0.61 sec, min 0.45 sec)
+[2022.12.24-22.34.13:245][209]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2022.12.24-22.34.13:246][209]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.24-22.34.13:246][209]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.81% of total time (compiled    6 times, average 0.68 sec, max 0.78 sec, min 0.55 sec)
+[2022.12.24-22.34.13:246][209]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.99% of total time (compiled    6 times, average 0.61 sec, max 0.69 sec, min 0.50 sec)
+[2022.12.24-22.34.13:246][209]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.99% of total time (compiled    5 times, average 0.55 sec, max 0.61 sec, min 0.45 sec)
+[2022.12.24-22.34.13:246][209]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.24% of total time (compiled    5 times, average 0.37 sec, max 0.43 sec, min 0.32 sec)
+[2022.12.24-22.34.13:246][209]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.08% of total time (compiled    2 times, average 0.61 sec, max 0.68 sec, min 0.54 sec)
+[2022.12.24-22.34.13:246][209]LogShaderCompilers: Display: ================================================
+[2022.12.24-22.34.21:080][832]Cmd: DELETE
+[2022.12.24-22.34.21:080][832]Cmd: ACTOR DELETE
+[2022.12.24-22.34.21:082][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.34.21:089][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.12.24-22.34.21:090][832]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.12.24-22.34.46:000][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/10276/Box_AB78B77B.Box_AB78B77B
+[2022.12.24-22.34.46:000][940]LogStaticMesh: Display: Building static mesh Box_AB78B77B...
+[2022.12.24-22.34.46:001][940]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/10276/Box_AB78B77B.Box_AB78B77B as actor: StaticMeshActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.StaticMeshActor_34
+[2022.12.24-22.34.46:002][940]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_AB78B77B.Box_AB78B77B
+[2022.12.24-22.35.04:689][396]LogStaticMesh: Display: Building static mesh Box_AB78B77B...
+[2022.12.24-22.35.04:692][396]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_AB78B77B.Box_AB78B77B
+[2022.12.24-22.36.19:544][408]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+[2022.12.24-22.36.19:575][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-22.36.20:003][408]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.24-22.36.20:003][408]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2022.12.24-22.36.20:003][408]MaterialEditorStats: Shader Count: 0
+[2022.12.24-22.36.20:018][408]LogSlate: Took 0.004759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.24-22.36.20:115][410]MaterialEditorStats: Base pass shader: 258 instructions
+[2022.12.24-22.36.20:115][410]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2022.12.24-22.36.20:115][410]MaterialEditorStats: Texture samplers: 3/16
+[2022.12.24-22.36.20:115][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2022.12.24-22.36.20:115][410]MaterialEditorStats: Shader Count: 4
+[2022.12.24-22.36.26:304][932]LogSlate: Window 'M_PrototypeGrid' being destroyed
+[2022.12.24-22.36.26:335][932]LogViewport: Scene viewport resized to 19x1, mode Windowed.
+[2022.12.24-22.36.27:991][991]LogViewport: Scene viewport resized to 504x629, mode Windowed.
+[2022.12.24-22.36.45:703][ 47]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_Inst
+[2022.12.24-22.36.45:737][ 47]LogContentBrowser: Creating deferred item: M_PrototypeGrid_Inst
+[2022.12.24-22.36.45:752][ 48]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_Inst).
+[2022.12.24-22.36.48:857][283]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_Inst -> Distance
+[2022.12.24-22.36.48:858][283]LogContentBrowser: End creating deferred item M_PrototypeGrid_Inst
+[2022.12.24-22.36.53:499][669]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/Distance.Distance
+[2022.12.24-22.36.53:500][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.24-22.36.53:680][669]LogViewport: Scene viewport resized to 2046x823, mode Windowed.
+[2022.12.24-22.37.08:710][265]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.24-22.37.15:263][671]LogViewport: Scene viewport resized to 97x1, mode Windowed.
+[2022.12.24-22.37.16:090][671]LogViewport: Scene viewport resized to 1532x587, mode Windowed.
+[2022.12.24-22.37.23:163][965]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.24-22.37.56:648][501]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2022.12.24-22.37.56:648][501]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2022.12.24-22.37.56:648][501]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.TextRenderActor_25
+[2022.12.24-22.37.56:649][501]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.TextRenderActor_25
+[2022.12.24-22.37.57:714][556]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2022.12.24-22.37.57:714][556]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2022.12.24-22.37.57:715][556]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.TextRenderActor_26
+[2022.12.24-22.37.57:716][556]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/Level/Gym_Matrix.Gym_Matrix:PersistentLevel.TextRenderActor_26
+[2022.12.24-22.38.35:767][268]Cmd: TRANSACTION UNDO
+[2022.12.24-22.38.35:768][268]LogEditorTransaction: Undo Move Elements
+[2022.12.24-22.38.36:021][270]Cmd: TRANSACTION UNDO
+[2022.12.24-22.38.36:021][270]LogEditorTransaction: Undo Edit Text
+[2022.12.24-22.38.36:235][273]Cmd: TRANSACTION UNDO
+[2022.12.24-22.38.36:235][273]LogEditorTransaction: Undo Move Elements
+[2022.12.24-22.40.10:766][528]LogStaticMesh: Display: Building static mesh Box_2FA1E84B...
+[2022.12.24-22.40.10:767][528]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_2FA1E84B.Box_2FA1E84B
+[2022.12.24-22.41.42:696][777]Cmd: TRANSACTION UNDO
+[2022.12.24-22.41.42:696][777]LogEditorTransaction: Undo Move Elements
+[2022.12.24-22.42.15:001][238]LogStaticMesh: Display: Building static mesh Box_2FA1E84B...
+[2022.12.24-22.42.15:003][238]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_2FA1E84B.Box_2FA1E84B
+[2022.12.24-22.43.54:721][672]LogStaticMesh: Display: Building static mesh Box_AB78B77B...
+[2022.12.24-22.43.54:724][672]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_AB78B77B.Box_AB78B77B
+[2022.12.24-22.44.02:341][959]LogStaticMesh: Display: Building static mesh Box_AB78B77B...
+[2022.12.24-22.44.02:343][959]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_AB78B77B.Box_AB78B77B
+[2022.12.24-22.45.16:399][100]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.24-22.45.19:948][244]Cmd: TRANSACTION UNDO
+[2022.12.24-22.45.19:948][244]LogEditorTransaction: Undo Clicking on Elements
+[2022.12.24-22.45.23:580][373]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.24-22.46.31:981][470]Cmd: DELETE
+[2022.12.24-22.46.31:981][470]Cmd: ACTOR DELETE
+[2022.12.24-22.46.31:984][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.46.31:985][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.46.31:985][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.46.31:986][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.46.31:987][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.46.31:987][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.46.31:987][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.46.31:997][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.24-22.46.31:998][470]LogEditorActor: Deleted 7 Actors (0.017 secs)
+[2022.12.24-22.46.32:596][489]Cmd: DELETE
+[2022.12.24-22.46.32:596][489]Cmd: ACTOR DELETE
+[2022.12.24-22.46.32:598][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.46.32:605][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.12.24-22.46.32:607][489]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.12.24-22.48.34:933][514]LogStaticMesh: Display: Building static mesh Box_AB78B77B...
+[2022.12.24-22.48.34:935][514]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/10276/Box_AB78B77B.Box_AB78B77B
+[2022.12.24-22.49.02:323][844]Cmd: DELETE
+[2022.12.24-22.49.02:324][844]Cmd: ACTOR DELETE
+[2022.12.24-22.49.02:326][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.49.02:334][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.24-22.49.02:336][844]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.12.24-22.49.06:554][255]Cmd: TRANSACTION UNDO
+[2022.12.24-22.49.06:554][255]LogEditorTransaction: Undo Delete Elements
+[2022.12.24-22.49.07:055][266]Cmd: TRANSACTION UNDO
+[2022.12.24-22.49.07:055][266]LogEditorTransaction: Undo Clicking on Elements
+[2022.12.24-22.49.07:630][292]Cmd: TRANSACTION UNDO
+[2022.12.24-22.49.07:630][292]LogEditorTransaction: Undo Edit Text
+[2022.12.24-22.49.09:002][391]Cmd: DELETE
+[2022.12.24-22.49.09:002][391]Cmd: ACTOR DELETE
+[2022.12.24-22.49.09:004][391]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.49.09:013][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.24-22.49.09:014][391]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.12.24-22.49.36:452][782]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.24-22.49.42:696][324]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.24-22.49.50:880][ 73]Cmd: DELETE
+[2022.12.24-22.49.50:880][ 73]Cmd: ACTOR DELETE
+[2022.12.24-22.49.50:883][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.24-22.49.50:889][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.12.24-22.49.50:891][ 73]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.12.24-22.49.52:913][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.24-22.49.52:945][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Gym_Matrix" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/Gym_Matrix.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.24-22.49.52:950][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.24-22.49.52:968][243]LogSavePackage: Moving output files for package: /Game/Level/Gym_Matrix
+[2022.12.24-22.49.52:968][243]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Gym_Matrix1CFA4CD84AE86A57A07EDDA3EBC0FFC3.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/Gym_Matrix.umap'
+[2022.12.24-22.49.52:978][243]LogFileHelpers: Saving map 'Gym_Matrix' took 0.034
+[2022.12.24-22.49.52:985][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.10 sec)
+[2022.12.24-22.49.52:989][243]AssetCheck: New page: Asset Save: Gym_Matrix
+[2022.12.24-22.49.52:989][243]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Gym_Matrix.Gym_Matrix
+[2022.12.24-22.49.54:823][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.24-22.49.57:073][407]LogSlate: Window 'Save Content' being destroyed
+[2022.12.24-22.49.58:304][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.12.24-22.49.58:309][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.24-22.49.58:346][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_1AD7475A" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_1AD7475A.uasset" SILENT=true
+[2022.12.24-22.49.58:348][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_1AD7475A
+[2022.12.24-22.49.58:349][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_1AD7475ACDC026264718B9A95D6A71A2603548F0.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_1AD7475A.uasset'
+[2022.12.24-22.49.58:349][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_933BB9A9" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_933BB9A9.uasset" SILENT=true
+[2022.12.24-22.49.58:351][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_933BB9A9
+[2022.12.24-22.49.58:352][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_933BB9A9BF85907E4673EF01A27CBD8E9FB8BF20.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_933BB9A9.uasset'
+[2022.12.24-22.49.58:352][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_CF43AA5D" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_CF43AA5D.uasset" SILENT=true
+[2022.12.24-22.49.58:354][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_CF43AA5D
+[2022.12.24-22.49.58:354][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_CF43AA5D10F851404826A5226855C591C892F898.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_CF43AA5D.uasset'
+[2022.12.24-22.49.58:357][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/CubeGridToolOutput_A209A1AB
+[2022.12.24-22.49.58:357][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/CubeGridToolOutput_A209A1AB52E3C2304DF44742188684B5C16B620F.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/CubeGridToolOutput_A209A1AB.uasset'
+[2022.12.24-22.49.58:357][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_3E1F319B" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_3E1F319B.uasset" SILENT=true
+[2022.12.24-22.49.58:359][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_3E1F319B
+[2022.12.24-22.49.58:359][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_3E1F319B844BA7DD456A98FE6C9C38880B27CBBD.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_3E1F319B.uasset'
+[2022.12.24-22.49.58:360][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_0D46F0D5" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_0D46F0D5.uasset" SILENT=true
+[2022.12.24-22.49.58:361][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_0D46F0D5
+[2022.12.24-22.49.58:361][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_0D46F0D535CE7CBC4E2DED4CF575C18BED7CB98B.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_0D46F0D5.uasset'
+[2022.12.24-22.49.58:362][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_47DE65E5" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_47DE65E5.uasset" SILENT=true
+[2022.12.24-22.49.58:364][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_47DE65E5
+[2022.12.24-22.49.58:364][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_47DE65E524EF984347983EB4B6885E8116950ADB.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_47DE65E5.uasset'
+[2022.12.24-22.49.58:364][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_1DB49F92" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_1DB49F92.uasset" SILENT=true
+[2022.12.24-22.49.58:366][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_1DB49F92
+[2022.12.24-22.49.58:366][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_1DB49F92F0B878DE43979E456157F8B9C887FA10.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_1DB49F92.uasset'
+[2022.12.24-22.49.58:366][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_DB3EEB86" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_DB3EEB86.uasset" SILENT=true
+[2022.12.24-22.49.58:368][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_DB3EEB86
+[2022.12.24-22.49.58:368][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_DB3EEB86DE59876E400B12C108B1D6A598F3950C.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_DB3EEB86.uasset'
+[2022.12.24-22.49.58:369][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_C44D196B" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_C44D196B.uasset" SILENT=true
+[2022.12.24-22.49.58:370][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_C44D196B
+[2022.12.24-22.49.58:370][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_C44D196BC56489184C0D93263DC01F8BB9D190B9.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_C44D196B.uasset'
+[2022.12.24-22.49.58:371][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_A91499A6" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_A91499A6.uasset" SILENT=true
+[2022.12.24-22.49.58:372][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_A91499A6
+[2022.12.24-22.49.58:372][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_A91499A65506EFCA4268959607632E861B69655D.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_A91499A6.uasset'
+[2022.12.24-22.49.58:398][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_2FA1E84B" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_2FA1E84B.uasset" SILENT=true
+[2022.12.24-22.49.58:400][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_2FA1E84B
+[2022.12.24-22.49.58:400][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_2FA1E84BD4B09F3740E5FE24CF5213B535206626.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_2FA1E84B.uasset'
+[2022.12.24-22.49.58:401][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_E76EDE5C" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_E76EDE5C.uasset" SILENT=true
+[2022.12.24-22.49.58:402][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_E76EDE5C
+[2022.12.24-22.49.58:402][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_E76EDE5CE1B95E434A552AD62A3302A67E4FB63F.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_E76EDE5C.uasset'
+[2022.12.24-22.49.58:402][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_35EE4A2E" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_35EE4A2E.uasset" SILENT=true
+[2022.12.24-22.49.58:404][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_35EE4A2E
+[2022.12.24-22.49.58:404][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_35EE4A2ECC13E3AC4B1D5535B78C1C9A1FC325F2.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_35EE4A2E.uasset'
+[2022.12.24-22.49.58:404][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_5A0EF4A9" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_5A0EF4A9.uasset" SILENT=true
+[2022.12.24-22.49.58:406][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_5A0EF4A9
+[2022.12.24-22.49.58:406][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_5A0EF4A98A4371A940D12B5D8162D4B195294D29.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_5A0EF4A9.uasset'
+[2022.12.24-22.49.58:406][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_D56D1DCD" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_D56D1DCD.uasset" SILENT=true
+[2022.12.24-22.49.58:409][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_D56D1DCD
+[2022.12.24-22.49.58:409][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_D56D1DCDD9F6EFDA4DA25D973E79A8A8DA21E599.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_D56D1DCD.uasset'
+[2022.12.24-22.49.58:415][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/_GENERATED/10276/Box_AB78B77B" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_AB78B77B.uasset" SILENT=true
+[2022.12.24-22.49.58:418][521]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/10276/Box_AB78B77B
+[2022.12.24-22.49.58:418][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Box_AB78B77BDCC32012445D871819FFC6B7E78C111B.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/Level/_GENERATED/10276/Box_AB78B77B.uasset'
+[2022.12.24-22.49.58:424][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Materials/Distance" FILE="../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/LevelPrototyping/Materials/Distance.uasset" SILENT=true
+[2022.12.24-22.49.58:430][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.12.24-22.50.00:138][521]LogShaderCompilers: Display: ================================================
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Total job queries 267, among them cache hits 52 (19.48%)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Tracking 214 distinct input hashes that result in 147 distinct outputs (68.69%)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: RAM used: 1.53 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.19%
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Shaders Compiled: 45
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Jobs assigned 46, completed 45 (97.83%)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Average time worker was idle: 838.79 s
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 2.32 s
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Job execution time: average 1.12 s, max 2.42 s
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Job life time (pending + execution): average 1.37 s, max 3.04
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.97 s
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Jobs were issued in 46 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Total thread time: 24.73 s
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Total thread preprocess time: 2.21 s
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Percentage time preprocessing: 8.94%
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Effective parallelization: 2.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.73 sec, max 0.86 sec, min 0.55 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   12 times, average 0.67 sec, max 0.81 sec, min 0.50 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.61 sec, max 0.68 sec, min 0.54 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.55 sec, max 0.61 sec, min 0.45 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.19% of total time (compiled   12 times, average 0.73 sec, max 0.86 sec, min 0.55 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 32.53% of total time (compiled   12 times, average 0.67 sec, max 0.81 sec, min 0.50 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.03% of total time (compiled    5 times, average 0.55 sec, max 0.61 sec, min 0.45 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.50% of total time (compiled    5 times, average 0.37 sec, max 0.43 sec, min 0.32 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.95% of total time (compiled    2 times, average 0.61 sec, max 0.68 sec, min 0.54 sec)
+[2022.12.24-22.50.00:139][521]LogShaderCompilers: Display: ================================================
+[2022.12.24-22.50.01:082][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.24-22.50.01:085][521]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Distance
+[2022.12.24-22.50.01:085][521]LogSavePackage: Moving '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Saved/Distance0DADE1F14EB3E3EADE0ADFA3AE7C0029.tmp' to '../../../../../UE5/Ecopoint CostaRica/Ecopoint_Costa_Rica/Content/LevelPrototyping/Materials/Distance.uasset'
+[2022.12.24-22.50.01:094][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.78 sec (total: 3.89 sec)
+[2022.12.24-22.50.01:097][521]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_1AD7475A.Box_1AD7475A
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_933BB9A9.Box_933BB9A9
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_CF43AA5D.Box_CF43AA5D
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_DB3EEB86.Box_DB3EEB86
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_35EE4A2E.Box_35EE4A2E
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_2FA1E84B.Box_2FA1E84B
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_1DB49F92.Box_1DB49F92
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_3E1F319B.Box_3E1F319B
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_47DE65E5.Box_47DE65E5
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_E76EDE5C.Box_E76EDE5C
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_0D46F0D5.Box_0D46F0D5
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_A91499A6.Box_A91499A6
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_C44D196B.Box_C44D196B
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/CubeGridToolOutput_A209A1AB.CubeGridToolOutput_A209A1AB
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_5A0EF4A9.Box_5A0EF4A9
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/Distance.Distance
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_D56D1DCD.Box_D56D1DCD
+[2022.12.24-22.50.01:097][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Level/_GENERATED/10276/Box_AB78B77B.Box_AB78B77B
+[2022.12.24-22.50.03:167][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.12.24-22.50.03:168][722]LogStall: Shutdown...
+[2022.12.24-22.50.03:178][722]LogStall: Shutdown complete.
+[2022.12.24-22.50.03:264][722]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.03:264][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-22.50.03:275][722]LogSlate: Window 'Distance' being destroyed
+[2022.12.24-22.50.03:288][722]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.03:288][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-22.50.03:320][722]LogSlate: Window 'Ecopoint_Costa_Rica - Unreal Editor' being destroyed
+[2022.12.24-22.50.03:480][723]Cmd: QUIT_EDITOR
+[2022.12.24-22.50.03:480][723]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.24-22.50.03:485][723]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.24-22.50.03:485][723]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.24-22.50.03:485][723]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.24-22.50.03:488][723]LogWorld: UWorld::CleanupWorld for Gym_Matrix, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.03:495][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-22.50.03:502][723]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.12.24-22.50.03:508][723]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.12.24-22.50.04:005][723]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.24-22.50.04:005][723]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.24-22.50.04:005][723]LogAudio: Display: Audio Device unregistered from world 'Gym_Matrix'.
+[2022.12.24-22.50.04:034][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.24-22.50.04:037][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.24-22.50.04:049][723]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.24-22.50.04:055][723]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.24-22.50.04:059][723]LogExit: Preparing to exit.
+[2022.12.24-22.50.04:116][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.24-22.50.04:976][723]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.04:976][723]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.04:976][723]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.04:976][723]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.04:976][723]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.04:976][723]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-22.50.05:097][723]LogExit: Editor shut down
+[2022.12.24-22.50.05:103][723]LogExit: Transaction tracking system shut down
+[2022.12.24-22.50.05:122][723]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2022.12.24-22.50.05:533][723]LogExit: Object subsystem successfully closed.
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: ================================================
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Total job queries 267, among them cache hits 52 (19.48%)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Tracking 215 distinct input hashes that result in 148 distinct outputs (68.84%)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: RAM used: 1.55 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.19%
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Shaders Compiled: 46
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Jobs assigned 46, completed 46 (100.00%)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Average time worker was idle: 838.79 s
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 2.32 s
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Job execution time: average 1.15 s, max 2.45 s
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Job life time (pending + execution): average 1.39 s, max 3.04
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.78 s
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Jobs were issued in 46 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Average processing rate: 3.60 jobs/sec
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Total thread time: 26.05 s
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Total thread preprocess time: 2.26 s
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Percentage time preprocessing: 8.66%
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Effective parallelization: 2.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.73 sec, max 0.86 sec, min 0.55 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   12 times, average 0.67 sec, max 0.81 sec, min 0.50 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.61 sec, max 0.68 sec, min 0.54 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 0.55 sec, max 0.61 sec, min 0.45 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.40% of total time (compiled   12 times, average 0.73 sec, max 0.86 sec, min 0.55 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.88% of total time (compiled   12 times, average 0.67 sec, max 0.81 sec, min 0.50 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.47% of total time (compiled    5 times, average 0.55 sec, max 0.61 sec, min 0.45 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.12% of total time (compiled    5 times, average 0.37 sec, max 0.43 sec, min 0.32 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.07% of total time (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2022.12.24-22.50.05:547][723]LogShaderCompilers: Display: ================================================
+[2022.12.24-22.50.05:566][723]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.24-22.50.05:635][723]LogVirtualization: UE::Virtualization was shutdown
+[2022.12.24-22.50.05:719][723]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1001)
+[2022.12.24-22.50.05:719][723]LogModuleManager: Shutting down and abandoning module Voice (999)
+[2022.12.24-22.50.05:719][723]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (997)
+[2022.12.24-22.50.05:719][723]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (995)
+[2022.12.24-22.50.05:719][723]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (993)
+[2022.12.24-22.50.05:719][723]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (991)
+[2022.12.24-22.50.05:719][723]LogModuleManager: Shutting down and abandoning module AddContentDialog (989)
+[2022.12.24-22.50.05:725][723]LogModuleManager: Shutting down and abandoning module WidgetCarousel (988)
+[2022.12.24-22.50.05:726][723]LogModuleManager: Shutting down and abandoning module SubobjectEditor (985)
+[2022.12.24-22.50.05:726][723]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2022.12.24-22.50.05:726][723]LogModuleManager: Shutting down and abandoning module StatusBar (979)
+[2022.12.24-22.50.05:726][723]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (977)
+[2022.12.24-22.50.05:726][723]LogModuleManager: Shutting down and abandoning module StatsViewer (975)
+[2022.12.24-22.50.05:726][723]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (973)
+[2022.12.24-22.50.05:726][723]LogModuleManager: Shutting down and abandoning module AutomationWorker (971)
+[2022.12.24-22.50.05:726][723]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (969)
+[2022.12.24-22.50.05:727][723]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (967)
+[2022.12.24-22.50.05:729][723]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (965)
+[2022.12.24-22.50.05:729][723]LogModuleManager: Shutting down and abandoning module WaveTableEditor (963)
+[2022.12.24-22.50.05:730][723]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (961)
+[2022.12.24-22.50.05:730][723]LogModuleManager: Shutting down and abandoning module GooglePADEditor (959)
+[2022.12.24-22.50.05:730][723]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (957)
+[2022.12.24-22.50.05:730][723]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (955)
+[2022.12.24-22.50.05:730][723]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (953)
+[2022.12.24-22.50.05:731][723]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (951)
+[2022.12.24-22.50.05:731][723]LogModuleManager: Shutting down and abandoning module TakesCore (949)
+[2022.12.24-22.50.05:731][723]LogModuleManager: Shutting down and abandoning module TextureAlignMode (947)
+[2022.12.24-22.50.05:731][723]LogModuleManager: Shutting down and abandoning module BspMode (945)
+[2022.12.24-22.50.05:731][723]LogModuleManager: Shutting down and abandoning module GeometryMode (943)
+[2022.12.24-22.50.05:732][723]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (941)
+[2022.12.24-22.50.05:732][723]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (939)
+[2022.12.24-22.50.05:732][723]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (937)
+[2022.12.24-22.50.05:732][723]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (935)
+[2022.12.24-22.50.05:732][723]LogModuleManager: Shutting down and abandoning module WebMMedia (933)
+[2022.12.24-22.50.05:732][723]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (931)
+[2022.12.24-22.50.05:733][723]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (929)
+[2022.12.24-22.50.05:733][723]LogModuleManager: Shutting down and abandoning module SequenceRecorder (928)
+[2022.12.24-22.50.05:733][723]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (925)
+[2022.12.24-22.50.05:734][723]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (923)
+[2022.12.24-22.50.05:734][723]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (921)
+[2022.12.24-22.50.05:734][723]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (919)
+[2022.12.24-22.50.05:734][723]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (917)
+[2022.12.24-22.50.05:734][723]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (915)
+[2022.12.24-22.50.05:734][723]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (913)
+[2022.12.24-22.50.05:734][723]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (911)
+[2022.12.24-22.50.05:735][723]LogModuleManager: Shutting down and abandoning module IKRigEditor (909)
+[2022.12.24-22.50.05:736][723]LogModuleManager: Shutting down and abandoning module ControlRigEditor (907)
+[2022.12.24-22.50.05:738][723]LogModuleManager: Shutting down and abandoning module PlanarCut (905)
+[2022.12.24-22.50.05:738][723]LogModuleManager: Shutting down and abandoning module CharacterAI (903)
+[2022.12.24-22.50.05:738][723]LogModuleManager: Shutting down and abandoning module SmartSnapping (901)
+[2022.12.24-22.50.05:739][723]LogModuleManager: Shutting down and abandoning module SessionServices (899)
+[2022.12.24-22.50.05:739][723]LogModuleManager: Shutting down and abandoning module MeshPaint (897)
+[2022.12.24-22.50.05:739][723]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (895)
+[2022.12.24-22.50.05:739][723]LogModuleManager: Shutting down and abandoning module PlacementMode (894)
+[2022.12.24-22.50.05:740][723]LogModuleManager: Shutting down and abandoning module FoliageEdit (891)
+[2022.12.24-22.50.05:740][723]LogModuleManager: Shutting down and abandoning module LandscapeEditor (889)
+[2022.12.24-22.50.05:742][723]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (887)
+[2022.12.24-22.50.05:742][723]LogModuleManager: Shutting down and abandoning module ActorPickerMode (885)
+[2022.12.24-22.50.05:742][723]LogModuleManager: Shutting down and abandoning module ViewportSnapping (883)
+[2022.12.24-22.50.05:742][723]LogModuleManager: Shutting down and abandoning module ViewportInteraction (881)
+[2022.12.24-22.50.05:742][723]LogModuleManager: Shutting down and abandoning module ClothPainter (879)
+[2022.12.24-22.50.05:743][723]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (878)
+[2022.12.24-22.50.05:744][723]LogModuleManager: Shutting down and abandoning module LogVisualizer (875)
+[2022.12.24-22.50.05:745][723]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (873)
+[2022.12.24-22.50.05:745][723]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (871)
+[2022.12.24-22.50.05:745][723]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (870)
+[2022.12.24-22.50.05:746][723]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (868)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (865)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (863)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (861)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (859)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module AnimationSettings (857)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (855)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module CSVtoSVG (853)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (851)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module EditorConfig (849)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (847)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module EditorFramework (845)
+[2022.12.24-22.50.06:152][723]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (843)
+[2022.12.24-22.50.06:153][723]LogModuleManager: Shutting down and abandoning module TraceInsights (841)
+[2022.12.24-22.50.06:158][723]MemoryProfiler: Shutdown
+[2022.12.24-22.50.06:158][723]NetworkingProfiler: Shutdown
+[2022.12.24-22.50.06:158][723]LoadingProfiler: Shutdown
+[2022.12.24-22.50.06:159][723]TimingProfiler: Shutdown
+[2022.12.24-22.50.06:160][723]LogModuleManager: Shutting down and abandoning module TraceServices (840)
+[2022.12.24-22.50.06:161][723]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (837)
+[2022.12.24-22.50.06:161][723]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (836)
+[2022.12.24-22.50.06:161][723]LogModuleManager: Shutting down and abandoning module InputBindingEditor (833)
+[2022.12.24-22.50.06:162][723]LogModuleManager: Shutting down and abandoning module MergeActors (831)
+[2022.12.24-22.50.06:162][723]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (829)
+[2022.12.24-22.50.06:163][723]LogModuleManager: Shutting down and abandoning module LocalizationService (828)
+[2022.12.24-22.50.06:163][723]LogModuleManager: Shutting down and abandoning module HardwareTargeting (825)
+[2022.12.24-22.50.06:163][723]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (823)
+[2022.12.24-22.50.06:163][723]LogModuleManager: Shutting down and abandoning module UndoHistory (821)
+[2022.12.24-22.50.06:163][723]LogModuleManager: Shutting down and abandoning module XmlParser (819)
+[2022.12.24-22.50.06:163][723]LogModuleManager: Shutting down and abandoning module Blutility (817)
+[2022.12.24-22.50.06:163][723]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (815)
+[2022.12.24-22.50.06:163][723]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (814)
+[2022.12.24-22.50.06:164][723]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (811)
+[2022.12.24-22.50.06:164][723]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (810)
+[2022.12.24-22.50.06:164][723]LogModuleManager: Shutting down and abandoning module SettingsEditor (807)
+[2022.12.24-22.50.06:164][723]LogModuleManager: Shutting down and abandoning module ProjectLauncher (805)
+[2022.12.24-22.50.06:165][723]LogModuleManager: Shutting down and abandoning module SessionFrontend (803)
+[2022.12.24-22.50.06:165][723]LogModuleManager: Shutting down and abandoning module ProfilerClient (801)
+[2022.12.24-22.50.06:165][723]LogModuleManager: Shutting down and abandoning module DeviceManager (799)
+[2022.12.24-22.50.06:166][723]LogModuleManager: Shutting down and abandoning module AutomationController (797)
+[2022.12.24-22.50.06:166][723]LogModuleManager: Shutting down and abandoning module AutomationWindow (795)
+[2022.12.24-22.50.06:167][723]LogModuleManager: Shutting down and abandoning module Layers (793)
+[2022.12.24-22.50.06:168][723]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (791)
+[2022.12.24-22.50.06:168][723]LogModuleManager: Shutting down and abandoning module DetailCustomizations (789)
+[2022.12.24-22.50.06:168][723]LogModuleManager: Shutting down and abandoning module PackagesDialog (787)
+[2022.12.24-22.50.06:168][723]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (785)
+[2022.12.24-22.50.06:169][723]LogModuleManager: Shutting down and abandoning module Persona (783)
+[2022.12.24-22.50.06:170][723]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (782)
+[2022.12.24-22.50.06:170][723]LogModuleManager: Shutting down and abandoning module AnimGraph (780)
+[2022.12.24-22.50.06:170][723]LogModuleManager: Shutting down and abandoning module Kismet (777)
+[2022.12.24-22.50.06:172][723]LogModuleManager: Shutting down and abandoning module KismetWidgets (776)
+[2022.12.24-22.50.06:172][723]LogModuleManager: Shutting down and abandoning module GraphEditor (773)
+[2022.12.24-22.50.06:173][723]LogModuleManager: Shutting down and abandoning module StructViewer (771)
+[2022.12.24-22.50.06:174][723]LogModuleManager: Shutting down and abandoning module ClassViewer (769)
+[2022.12.24-22.50.06:174][723]LogModuleManager: Shutting down and abandoning module NaniteTools (767)
+[2022.12.24-22.50.06:174][723]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (765)
+[2022.12.24-22.50.06:175][723]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (763)
+[2022.12.24-22.50.06:175][723]LogModuleManager: Shutting down and abandoning module SourceControlWindows (761)
+[2022.12.24-22.50.06:175][723]LogModuleManager: Shutting down and abandoning module OutputLog (759)
+[2022.12.24-22.50.06:178][723]LogModuleManager: Shutting down and abandoning module Documentation (757)
+[2022.12.24-22.50.06:178][723]LogModuleManager: Shutting down and abandoning module LiveCoding (755)
+[2022.12.24-22.50.06:192][723]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (753)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module MovieScene (751)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (749)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (747)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (745)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module AudioMixer (744)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module AudioMixerCore (743)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module LauncherPlatform (739)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module AnalyticsET (737)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module PortalServices (735)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module PortalRpc (733)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module MessagingRpc (731)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module AIModule (729)
+[2022.12.24-22.50.06:193][723]LogModuleManager: Shutting down and abandoning module GameplayDebugger (728)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module AITestSuite (726)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module NavigationSystem (724)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module DataLayerEditor (721)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module EditorWidgets (720)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (717)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (715)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module TypedElementFramework (713)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (711)
+[2022.12.24-22.50.06:194][723]LogModuleManager: Shutting down and abandoning module ProfilerService (709)
+[2022.12.24-22.50.06:360][723]LogModuleManager: Shutting down and abandoning module TaskGraph (707)
+[2022.12.24-22.50.06:361][723]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (705)
+[2022.12.24-22.50.06:361][723]LogModuleManager: Shutting down and abandoning module MegascansPlugin (703)
+[2022.12.24-22.50.06:361][723]LogModuleManager: Shutting down and abandoning module Bridge (701)
+[2022.12.24-22.50.06:362][723]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (699)
+[2022.12.24-22.50.06:362][723]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (697)
+[2022.12.24-22.50.06:362][723]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (695)
+[2022.12.24-22.50.06:362][723]LogModuleManager: Shutting down and abandoning module CollectionManager (694)
+[2022.12.24-22.50.06:362][723]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (691)
+[2022.12.24-22.50.06:363][723]LogModuleManager: Shutting down and abandoning module LightMixer (689)
+[2022.12.24-22.50.06:363][723]LogModuleManager: Shutting down and abandoning module TemplateSequence (687)
+[2022.12.24-22.50.06:363][723]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (685)
+[2022.12.24-22.50.06:363][723]LogModuleManager: Shutting down and abandoning module SequencerScripting (683)
+[2022.12.24-22.50.06:363][723]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (679)
+[2022.12.24-22.50.06:364][723]LogModuleManager: Shutting down and abandoning module PluginUtils (677)
+[2022.12.24-22.50.06:364][723]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (675)
+[2022.12.24-22.50.06:364][723]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (673)
+[2022.12.24-22.50.06:364][723]LogModuleManager: Shutting down and abandoning module UObjectPlugin (671)
+[2022.12.24-22.50.06:364][723]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (669)
+[2022.12.24-22.50.06:364][723]LogModuleManager: Shutting down and abandoning module GitSourceControl (667)
+[2022.12.24-22.50.06:365][723]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (665)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module DumpGPUServices (663)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (661)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module SynthesisEditor (659)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (657)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module ResonanceAudio (655)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (653)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (651)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (649)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module ModelingOperators (647)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (645)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module ModelingComponents (643)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module GeometryFramework (642)
+[2022.12.24-22.50.06:366][723]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (639)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module MeshModelingTools (637)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module InputDebugging (635)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module DynamicMesh (633)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (631)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module GooglePAD (629)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (627)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (625)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (623)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module AudioCapture (621)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (620)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (617)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module AssetTags (615)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module AndroidPermission (613)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (611)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module AppleImageUtils (609)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (607)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (605)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (603)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module AlembicImporter (601)
+[2022.12.24-22.50.06:367][723]LogModuleManager: Shutting down and abandoning module AlembicLibrary (600)
+[2022.12.24-22.50.06:368][723]LogModuleManager: Shutting down and abandoning module GeometryCache (599)
+[2022.12.24-22.50.06:368][723]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (598)
+[2022.12.24-22.50.06:368][723]LogModuleManager: Shutting down and abandoning module TakeSequencer (593)
+[2022.12.24-22.50.06:368][723]LogModuleManager: Shutting down and abandoning module TakeMovieScene (591)
+[2022.12.24-22.50.06:368][723]LogModuleManager: Shutting down and abandoning module PluginBrowser (589)
+[2022.12.24-22.50.06:369][723]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (587)
+[2022.12.24-22.50.06:369][723]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (585)
+[2022.12.24-22.50.06:369][723]LogModuleManager: Shutting down and abandoning module StylusInput (583)
+[2022.12.24-22.50.06:369][723]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (581)
+[2022.12.24-22.50.06:369][723]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (579)
+[2022.12.24-22.50.06:371][723]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (577)
+[2022.12.24-22.50.06:372][723]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (575)
+[2022.12.24-22.50.06:372][723]LogModuleManager: Shutting down and abandoning module EditorDebugTools (573)
+[2022.12.24-22.50.06:372][723]LogModuleManager: Shutting down and abandoning module GLTFImporter (571)
+[2022.12.24-22.50.06:373][723]LogModuleManager: Shutting down and abandoning module GLTFCore (569)
+[2022.12.24-22.50.06:373][723]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (567)
+[2022.12.24-22.50.06:373][723]LogModuleManager: Shutting down and abandoning module CryptoKeys (565)
+[2022.12.24-22.50.06:373][723]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (563)
+[2022.12.24-22.50.06:373][723]LogModuleManager: Shutting down and abandoning module CurveEditorTools (561)
+[2022.12.24-22.50.06:374][723]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (559)
+[2022.12.24-22.50.06:374][723]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (557)
+[2022.12.24-22.50.06:374][723]LogModuleManager: Shutting down and abandoning module InterchangeTests (555)
+[2022.12.24-22.50.06:374][723]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (553)
+[2022.12.24-22.50.06:375][723]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (551)
+[2022.12.24-22.50.06:375][723]LogModuleManager: Shutting down and abandoning module VariantManager (549)
+[2022.12.24-22.50.06:377][723]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (548)
+[2022.12.24-22.50.06:377][723]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (545)
+[2022.12.24-22.50.06:378][723]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (543)
+[2022.12.24-22.50.06:378][723]LogModuleManager: Shutting down and abandoning module MediaPlate (541)
+[2022.12.24-22.50.06:378][723]LogModuleManager: Shutting down and abandoning module MediaCompositing (539)
+[2022.12.24-22.50.06:378][723]LogModuleManager: Shutting down and abandoning module ImgMedia (537)
+[2022.12.24-22.50.06:378][723]LogModuleManager: Shutting down and abandoning module ControlRigSpline (535)
+[2022.12.24-22.50.06:378][723]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (533)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (531)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (529)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangePipelines (527)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeExport (525)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeMessages (523)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeImport (521)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (519)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeNodes (517)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (515)
+[2022.12.24-22.50.06:379][723]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (513)
+[2022.12.24-22.50.06:380][723]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (511)
+[2022.12.24-22.50.06:380][723]LogModuleManager: Shutting down and abandoning module InterchangeEditor (509)
+[2022.12.24-22.50.06:380][723]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (507)
+[2022.12.24-22.50.06:380][723]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (505)
+[2022.12.24-22.50.06:380][723]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (503)
+[2022.12.24-22.50.06:382][723]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (501)
+[2022.12.24-22.50.06:382][723]LogModuleManager: Shutting down and abandoning module UVEditorTools (499)
+[2022.12.24-22.50.06:383][723]LogModuleManager: Shutting down and abandoning module UVEditor (497)
+[2022.12.24-22.50.06:383][723]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (495)
+[2022.12.24-22.50.06:383][723]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (493)
+[2022.12.24-22.50.06:384][723]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (491)
+[2022.12.24-22.50.06:384][723]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (489)
+[2022.12.24-22.50.06:384][723]LogModuleManager: Shutting down and abandoning module MeshLODToolset (487)
+[2022.12.24-22.50.06:384][723]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (485)
+[2022.12.24-22.50.06:385][723]LogOpenImageDenoise: OIDN shutting down
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module Iris (483)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (481)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (479)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (478)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (476)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (473)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (471)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (469)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (467)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module DataflowNodes (465)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module DataflowEditor (463)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (461)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module ChaosNiagara (459)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (457)
+[2022.12.24-22.50.06:385][723]LogModuleManager: Shutting down and abandoning module FractureEditor (455)
+[2022.12.24-22.50.06:386][723]LogModuleManager: Shutting down and abandoning module BackChannel (453)
+[2022.12.24-22.50.06:386][723]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (451)
+[2022.12.24-22.50.06:386][723]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (449)
+[2022.12.24-22.50.06:386][723]LogModuleManager: Shutting down and abandoning module AutomationUtils (447)
+[2022.12.24-22.50.06:386][723]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (445)
+[2022.12.24-22.50.06:386][723]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (443)
+[2022.12.24-22.50.06:386][723]LogModuleManager: Shutting down and abandoning module Paper2DEditor (441)
+[2022.12.24-22.50.06:387][723]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (439)
+[2022.12.24-22.50.06:387][723]LogModuleManager: Shutting down and abandoning module TraceUtilities (437)
+[2022.12.24-22.50.06:387][723]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (435)
+[2022.12.24-22.50.06:387][723]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (433)
+[2022.12.24-22.50.06:388][723]LogModuleManager: Shutting down and abandoning module InputEditor (431)
+[2022.12.24-22.50.06:388][723]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (429)
+[2022.12.24-22.50.06:388][723]LogModuleManager: Shutting down and abandoning module ActorSequence (427)
+[2022.12.24-22.50.06:388][723]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (425)
+[2022.12.24-22.50.06:390][723]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (423)
+[2022.12.24-22.50.06:390][723]LogModuleManager: Shutting down and abandoning module Synthesis (421)
+[2022.12.24-22.50.06:390][723]LogModuleManager: Shutting down and abandoning module AnimationSharing (419)
+[2022.12.24-22.50.06:390][723]LogModuleManager: Shutting down and abandoning module SoundFields (417)
+[2022.12.24-22.50.06:390][723]LogModuleManager: Shutting down and abandoning module SignificanceManager (415)
+[2022.12.24-22.50.06:390][723]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (413)
+[2022.12.24-22.50.06:390][723]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (411)
+[2022.12.24-22.50.06:390][723]LogModuleManager: Shutting down and abandoning module MetasoundEditor (409)
+[2022.12.24-22.50.06:392][723]LogModuleManager: Shutting down and abandoning module AudioWidgets (408)
+[2022.12.24-22.50.06:392][723]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (407)
+[2022.12.24-22.50.06:393][723]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (403)
+[2022.12.24-22.50.06:394][723]LogModuleManager: Shutting down and abandoning module MetasoundEngine (401)
+[2022.12.24-22.50.06:394][723]LogModuleManager: Shutting down and abandoning module WaveTable (400)
+[2022.12.24-22.50.06:394][723]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (398)
+[2022.12.24-22.50.06:394][723]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (395)
+[2022.12.24-22.50.06:394][723]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (393)
+[2022.12.24-22.50.06:396][723]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (391)
+[2022.12.24-22.50.06:396][723]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (389)
+[2022.12.24-22.50.06:396][723]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (387)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module CableComponent (385)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (383)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (381)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (380)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (377)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (375)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module FacialAnimation (373)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (371)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module DataValidation (369)
+[2022.12.24-22.50.06:397][723]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (367)
+[2022.12.24-22.50.06:398][723]LogModuleManager: Shutting down and abandoning module TreeMap (366)
+[2022.12.24-22.50.06:398][723]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (363)
+[2022.12.24-22.50.06:398][723]LogModuleManager: Shutting down and abandoning module TcpMessaging (361)
+[2022.12.24-22.50.06:499][723]LogModuleManager: Shutting down and abandoning module UdpMessaging (359)
+[2022.12.24-22.50.06:601][723]LogModuleManager: Shutting down and abandoning module GameplayCameras (357)
+[2022.12.24-22.50.06:601][723]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (355)
+[2022.12.24-22.50.06:601][723]LogModuleManager: Shutting down and abandoning module IKRig (353)
+[2022.12.24-22.50.06:601][723]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (351)
+[2022.12.24-22.50.06:601][723]LogModuleManager: Shutting down and abandoning module ControlRig (349)
+[2022.12.24-22.50.06:601][723]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (347)
+[2022.12.24-22.50.06:601][723]LogModuleManager: Shutting down and abandoning module Niagara (345)
+[2022.12.24-22.50.06:602][723]LogModuleManager: Shutting down and abandoning module SignalProcessing (344)
+[2022.12.24-22.50.06:603][723]LogModuleManager: Shutting down and abandoning module NiagaraEditor (342)
+[2022.12.24-22.50.06:605][723]LogModuleManager: Shutting down and abandoning module ContentBrowser (341)
+[2022.12.24-22.50.06:605][723]LogModuleManager: Shutting down and abandoning module ToolMenus (340)
+[2022.12.24-22.50.06:605][723]LogModuleManager: Shutting down and abandoning module ContentBrowserData (338)
+[2022.12.24-22.50.06:605][723]LogModuleManager: Shutting down and abandoning module NiagaraCore (333)
+[2022.12.24-22.50.06:605][723]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (331)
+[2022.12.24-22.50.06:605][723]LogModuleManager: Shutting down and abandoning module PBIK (329)
+[2022.12.24-22.50.06:605][723]LogModuleManager: Shutting down and abandoning module FullBodyIK (327)
+[2022.12.24-22.50.06:606][723]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (325)
+[2022.12.24-22.50.06:606][723]LogModuleManager: Shutting down and abandoning module TakeRecorder (324)
+[2022.12.24-22.50.06:606][723]LogModuleManager: Shutting down and abandoning module LevelEditor (322)
+[2022.12.24-22.50.06:613][723]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (321)
+[2022.12.24-22.50.06:613][723]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (319)
+[2022.12.24-22.50.06:613][723]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (317)
+[2022.12.24-22.50.06:614][723]LogModuleManager: Shutting down and abandoning module MainFrame (315)
+[2022.12.24-22.50.06:615][723]LogModuleManager: Shutting down and abandoning module HotReload (314)
+[2022.12.24-22.50.06:615][723]LogModuleManager: Shutting down and abandoning module ChaosCaching (309)
+[2022.12.24-22.50.06:615][723]LogModuleManager: Shutting down and abandoning module LevelSequence (308)
+[2022.12.24-22.50.06:615][723]LogModuleManager: Shutting down and abandoning module Paper2D (305)
+[2022.12.24-22.50.06:615][723]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (303)
+[2022.12.24-22.50.06:615][723]LogModuleManager: Shutting down and abandoning module EnhancedInput (301)
+[2022.12.24-22.50.06:615][723]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (299)
+[2022.12.24-22.50.06:616][723]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (297)
+[2022.12.24-22.50.06:616][723]LogModuleManager: Shutting down and abandoning module AndroidFileServer (295)
+[2022.12.24-22.50.06:616][723]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (293)
+[2022.12.24-22.50.06:616][723]LogModuleManager: Shutting down and abandoning module PacketHandler (291)
+[2022.12.24-22.50.06:616][723]LogModuleManager: Shutting down and abandoning module TimeManagement (289)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module AnimationDataController (287)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (285)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (283)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module MediaAssets (281)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module Overlay (279)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module OverlayEditor (278)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module VREditor (275)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module StringTableEditor (273)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (271)
+[2022.12.24-22.50.06:617][723]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (269)
+[2022.12.24-22.50.06:618][723]LogModuleManager: Shutting down and abandoning module FunctionalTesting (267)
+[2022.12.24-22.50.06:618][723]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (265)
+[2022.12.24-22.50.06:619][723]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (264)
+[2022.12.24-22.50.06:620][723]LogModuleManager: Shutting down and abandoning module UMG (261)
+[2022.12.24-22.50.06:620][723]LogModuleManager: Shutting down and abandoning module UMGEditor (260)
+[2022.12.24-22.50.06:621][723]LogModuleManager: Shutting down and abandoning module EditorStyle (255)
+[2022.12.24-22.50.06:622][723]LogModuleManager: Shutting down and abandoning module SlateReflector (253)
+[2022.12.24-22.50.06:624][723]LogModuleManager: Shutting down and abandoning module Slate (251)
+[2022.12.24-22.50.06:624][723]LogModuleManager: Shutting down and abandoning module SlateCore (249)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (247)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (245)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module UnrealEd (243)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module MRMesh (241)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module Messaging (239)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (237)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (235)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module Networking (233)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module Core (231)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module MaterialEditor (229)
+[2022.12.24-22.50.06:625][723]LogModuleManager: Shutting down and abandoning module MovieSceneTools (227)
+[2022.12.24-22.50.06:626][723]LogModuleManager: Shutting down and abandoning module CurveEditor (226)
+[2022.12.24-22.50.06:627][723]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2022.12.24-22.50.06:628][723]LogModuleManager: Shutting down and abandoning module KismetCompiler (221)
+[2022.12.24-22.50.06:628][723]LogModuleManager: Shutting down and abandoning module MeshBuilder (219)
+[2022.12.24-22.50.06:628][723]LogModuleManager: Shutting down and abandoning module NaniteBuilder (217)
+[2022.12.24-22.50.06:628][723]LogModuleManager: Shutting down and abandoning module MeshUtilities (215)
+[2022.12.24-22.50.06:628][723]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (214)
+[2022.12.24-22.50.06:629][723]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (213)
+[2022.12.24-22.50.06:629][723]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (212)
+[2022.12.24-22.50.06:629][723]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (210)
+[2022.12.24-22.50.06:629][723]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (208)
+[2022.12.24-22.50.06:631][723]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (206)
+[2022.12.24-22.50.06:631][723]LogModuleManager: Shutting down and abandoning module MaterialBaking (202)
+[2022.12.24-22.50.06:632][723]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (199)
+[2022.12.24-22.50.06:643][723]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (195)
+[2022.12.24-22.50.06:643][723]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2022.12.24-22.50.06:661][723]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2022.12.24-22.50.06:662][723]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2022.12.24-22.50.06:662][723]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2022.12.24-22.50.06:662][723]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2022.12.24-22.50.06:663][723]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2022.12.24-22.50.06:663][723]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2022.12.24-22.50.06:663][723]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (180)
+[2022.12.24-22.50.06:664][723]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (178)
+[2022.12.24-22.50.06:664][723]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2022.12.24-22.50.06:664][723]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (174)
+[2022.12.24-22.50.06:664][723]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2022.12.24-22.50.06:664][723]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2022.12.24-22.50.06:664][723]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2022.12.24-22.50.06:665][723]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2022.12.24-22.50.06:665][723]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2022.12.24-22.50.06:665][723]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2022.12.24-22.50.06:665][723]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2022.12.24-22.50.06:666][723]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2022.12.24-22.50.06:666][723]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2022.12.24-22.50.06:666][723]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2022.12.24-22.50.06:668][723]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2022.12.24-22.50.06:668][723]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2022.12.24-22.50.06:668][723]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2022.12.24-22.50.06:668][723]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2022.12.24-22.50.06:668][723]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2022.12.24-22.50.06:668][723]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2022.12.24-22.50.06:668][723]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2022.12.24-22.50.06:669][723]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2022.12.24-22.50.06:669][723]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module AISupportModule (112)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (110)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (108)
+[2022.12.24-22.50.06:675][723]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (106)
+[2022.12.24-22.50.06:679][723]LogModuleManager: Shutting down and abandoning module XMPP (101)
+[2022.12.24-22.50.06:679][723]LogModuleManager: Shutting down and abandoning module WebSockets (100)
+[2022.12.24-22.50.06:690][723]LogModuleManager: Shutting down and abandoning module HTTP (97)
+[2022.12.24-22.50.06:690][723]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2022.12.24-22.50.06:690][723]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1CC715EB-4A18-2857-7190-9B96EC48AB61%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=9237737240a0972c38d9dfa6ace5aba3%7Cf13fab1286534659b92875665dfa19f8%7Cd299d2b5-870c-4874-9557-81186f0160c9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.12.24-22.50.06:726][723]LogModuleManager: Shutting down and abandoning module SSL (96)
+[2022.12.24-22.50.06:730][723]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (92)
+[2022.12.24-22.50.06:730][723]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (90)
+[2022.12.24-22.50.06:730][723]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (88)
+[2022.12.24-22.50.06:730][723]LogModuleManager: Shutting down and abandoning module PixWinPlugin (86)
+[2022.12.24-22.50.06:731][723]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (84)
+[2022.12.24-22.50.06:731][723]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2022.12.24-22.50.06:731][723]LogModuleManager: Shutting down and abandoning module ChunkDownloader (80)
+[2022.12.24-22.50.06:731][723]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2022.12.24-22.50.06:731][723]LogModuleManager: Shutting down and abandoning module GLTFExporter (76)
+[2022.12.24-22.50.06:731][723]LogModuleManager: Shutting down and abandoning module VariantManagerContent (74)
+[2022.12.24-22.50.06:731][723]LogModuleManager: Shutting down and abandoning module DatasmithContent (72)
+[2022.12.24-22.50.06:731][723]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.12.24-22.50.06:735][723]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.12.24-22.50.06:737][723]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.12.24-22.50.06:737][723]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (64)
+[2022.12.24-22.50.06:737][723]LogModuleManager: Shutting down and abandoning module NiagaraShader (62)
+[2022.12.24-22.50.06:737][723]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.12.24-22.50.06:737][723]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2022.12.24-22.50.06:737][723]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2022.12.24-22.50.06:738][723]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2022.12.24-22.50.06:739][723]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2022.12.24-22.50.06:739][723]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2022.12.24-22.50.06:739][723]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2022.12.24-22.50.06:739][723]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2022.12.24-22.50.06:739][723]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2022.12.24-22.50.06:739][723]LogXGEController: Cleaning working directory: C:/Users/10276/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.12.24-22.50.06:739][723]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2022.12.24-22.50.06:740][723]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2022.12.24-22.50.06:740][723]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2022.12.24-22.50.06:742][723]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.12.24-22.50.06:743][723]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2022.12.24-22.50.06:743][723]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2022.12.24-22.50.06:743][723]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2022.12.24-22.50.06:743][723]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2022.12.24-22.50.06:743][723]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2022.12.24-22.50.06:743][723]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2022.12.24-22.50.06:745][723]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2022.12.24-22.50.06:745][723]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2022.12.24-22.50.06:745][723]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2022.12.24-22.50.06:745][723]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2022.12.24-22.50.06:745][723]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2022.12.24-22.50.06:746][723]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2022.12.24-22.50.06:746][723]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2022.12.24-22.50.06:746][723]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2022.12.24-22.50.06:746][723]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2022.12.24-22.50.06:746][723]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2022.12.24-22.50.06:746][723]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.12.24-22.50.06:970][723]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.12.24-22.50.07:017][723]LogExit: Exiting.
+[2022.12.24-22.50.07:036][723]Log file closed, 12/24/22 17:50:07
